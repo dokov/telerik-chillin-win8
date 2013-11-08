@@ -1,0 +1,178 @@
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.exe
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.pdb
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\resources.pri
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\AppxManifest.xml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.dll
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.xml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\XamlTypeInfo.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.exe
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.pdb
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.csproj.GenerateResource.Cache
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\priconfig.xml.intermediate
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\layout.resfiles.intermediate
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\resources.resfiles.intermediate
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\pri.resfiles.intermediate
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\priconfig.xml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\layout.resfiles
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\resources.resfiles
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\pri.resfiles
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\LanguageQualifiers.txt
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\ProjectArchitectures.txt
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.build.appxrecipe
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.csprojResolveAssemblyReference.cache
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.i.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.cs
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.xaml
+F:\Projects\Other Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\XamlTypeInfo.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\App.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Common\StandardStyles.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\HomePage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\SimplePage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.exe
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.pdb
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.exe
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.pdb
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\resources.pri
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\AppxManifest.xml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik Chillin.build.appxrecipe
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.dll
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.xml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Telerik Chillin.csproj.GenerateResource.Cache
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\priconfig.xml.intermediate
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\layout.resfiles.intermediate
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\resources.resfiles.intermediate
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\pri.resfiles.intermediate
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\priconfig.xml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\layout.resfiles
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\resources.resfiles
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\pri.resfiles
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\LanguageQualifiers.txt
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\ProjectArchitectures.txt
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\bin\Debug\Images\background1.jpg
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.xaml
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.g.i.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.g.cs
+F:\Projects\Source Code\Test Projects\Telerik Chillin\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Images\background1.jpg
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik Chillin.exe
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik Chillin.pdb
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\resources.pri
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\AppxManifest.xml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik Chillin.build.appxrecipe
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.dll
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik.Everlive.Sdk.xml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\App.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\App.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Common\StandardStyles.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Common\StandardStyles.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\HomePage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\HomePage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\SimplePage.g.i.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\SimplePage.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\XamlTypeInfo.g.cs
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\App.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Common\StandardStyles.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Flyouts\AccountSettingsFlyout.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\ImagePopup.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\UnderConstructionPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Cafeteria\CafeteriaMenuPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountCategoriesPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountInfoPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Discounts\DiscountsPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\HomePage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlaceInfoPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Pages\Places\PlacesListPage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\SimplePage.xaml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Telerik Chillin.exe
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Telerik Chillin.pdb
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\Telerik Chillin.csproj.GenerateResource.Cache
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\priconfig.xml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\layout.resfiles
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\resources.resfiles
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\pri.resfiles
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\LanguageQualifiers.txt
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\ProjectArchitectures.txt
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Newtonsoft.Json.dll
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Newtonsoft.Json.xml
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\priconfig.xml.intermediate
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\layout.resfiles.intermediate
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\resources.resfiles.intermediate
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\obj\Debug\pri.resfiles.intermediate
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Assets\Logo.png
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Assets\SmallLogo.png
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Assets\SplashScreen.png
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Assets\StoreLogo.png

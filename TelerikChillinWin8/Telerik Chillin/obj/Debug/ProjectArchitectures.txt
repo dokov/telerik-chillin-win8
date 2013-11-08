@@ -1,0 +1,1 @@
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Telerik Chillin.csproj;neutral

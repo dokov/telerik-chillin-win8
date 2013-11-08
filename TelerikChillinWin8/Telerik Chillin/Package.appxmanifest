@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="48dc9516-db24-4899-89cf-0d8c57c2c009" Publisher="CN=Pulni4kiya" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Telerik Chillin</DisplayName>
+    <PublisherDisplayName>Pulni4kiya</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Telerik_Chillin.App">
+      <VisualElements DisplayName="Telerik Chillin" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Telerik Chillin" ForegroundText="light" BackgroundColor="#000000">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#000000" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

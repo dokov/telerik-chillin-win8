@@ -1,0 +1,1 @@
+C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\AppPackages\Telerik Chillin_1.0.0.0_AnyCPU_Debug_Test\Telerik Chillin_1.0.0.0_AnyCPU_Debug.appx

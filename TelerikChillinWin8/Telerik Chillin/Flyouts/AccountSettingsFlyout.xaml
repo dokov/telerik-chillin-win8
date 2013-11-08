@@ -1,0 +1,44 @@
+﻿<UserControl
+    x:Class="Telerik_Chillin.Flyouts.AccountSettingsFlyout"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Telerik_Chillin.Flyouts"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Border BorderBrush="White" BorderThickness="1,0,0,0" >
+        <Grid Background="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Grid x:Name="HeaderPanel" Grid.Row="0" Background="DarkGray">
+                <StackPanel Orientation="Horizontal" Margin="40,32,17,13">
+                    <Button x:Name="BackButton" Click="BackButton_Click" Margin="0,3,0,0" Style="{StaticResource SettingsBackButtonStyle}"/>
+                    <TextBlock x:Name="TitleText" Text="Account" Margin="10,0,0,0" FontFamily="Segoe UI" FontWeight="SemiLight" FontSize="24.6667" Foreground="White"/>
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="1" Margin="40,12,17,0">
+                <StackPanel x:Name="LogInPanel" Orientation="Vertical">
+                    <TextBlock Text="Username" Style="{StaticResource LabelStyle}" Margin="0" />
+                    <TextBox x:Name="Username" />
+
+                    <TextBlock Text="Password" Style="{StaticResource LabelStyle}" />
+                    <PasswordBox x:Name="Password" />
+                    
+                    <Button x:Name="LoginButton" Content="Sign in" Margin="0 20 0 0" Width="120" Click="LoginButton_Click" />
+                </StackPanel>
+                <StackPanel x:Name="LoggedInPanel" Orientation="Vertical">
+                    <TextBlock x:Name="LoggedInUsername" Style="{StaticResource LabelStyle}" Margin="0" Text="You are signed in." />
+
+                    <Button x:Name="LogoutButton" Content="Logout" Margin="0 20 0 0" Width="120" Click="LogoutButton_Click" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

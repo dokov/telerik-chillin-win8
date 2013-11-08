@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOKOV</Machine>
+    <WindowsUser>dokov</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B31AAAD4B4391DE2C62DDF7507C04B139E614156B66BD493CEB29BFEE6332C13</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>48dc9516-db24-4899-89cf-0d8c57c2c009_1.0.0.0_neutral__jdq9ekqd0kswg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>48dc9516-db24-4899-89cf-0d8c57c2c009_jdq9ekqd0kswg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>48dc9516-db24-4899-89cf-0d8c57c2c009</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Pulni4kiya</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-08T16:55:03.928</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik Chillin.exe">
+      <PackagePath>Telerik Chillin.exe</PackagePath>
+      <Modified>2013-11-08T16:55:03.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Telerik Chillin.pdb">
+      <PackagePath>Telerik Chillin.pdb</PackagePath>
+      <Modified>2013-11-08T16:55:03.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Lib\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-05-22T12:43:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Lib\Telerik.Everlive.Sdk.dll">
+      <PackagePath>Telerik.Everlive.Sdk.dll</PackagePath>
+      <Modified>2013-10-25T08:21:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Lib\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2013-05-22T12:43:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Lib\Telerik.Everlive.Sdk.xml">
+      <PackagePath>Telerik.Everlive.Sdk.xml</PackagePath>
+      <Modified>2013-10-25T08:21:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T17:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Icons\Common\comment.png">
+      <PackagePath>Icons\Common\comment.png</PackagePath>
+      <Modified>2013-11-08T03:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Icons\Common\rating.png">
+      <PackagePath>Icons\Common\rating.png</PackagePath>
+      <Modified>2013-11-08T03:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\automotive.png">
+      <PackagePath>Images\Discounts\automotive.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\computers.png">
+      <PackagePath>Images\Discounts\computers.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\entertainment.png">
+      <PackagePath>Images\Discounts\entertainment.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\health.png">
+      <PackagePath>Images\Discounts\health.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\internet.png">
+      <PackagePath>Images\Discounts\internet.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\rest.png">
+      <PackagePath>Images\Discounts\rest.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\travel.png">
+      <PackagePath>Images\Discounts\travel.png</PackagePath>
+      <Modified>2013-11-07T23:31:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-11-07T21:54:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\background1.jpg">
+      <PackagePath>Images\background1.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\children.jpg">
+      <PackagePath>Images\Discounts\children.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\eating.jpg">
+      <PackagePath>Images\Discounts\eating.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\finances.jpg">
+      <PackagePath>Images\Discounts\finances.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\hair.jpg">
+      <PackagePath>Images\Discounts\hair.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\home.jpg">
+      <PackagePath>Images\Discounts\home.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\jewelry.jpg">
+      <PackagePath>Images\Discounts\jewelry.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\optical.jpg">
+      <PackagePath>Images\Discounts\optical.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Discounts\rest.jpg">
+      <PackagePath>Images\Discounts\rest.jpg</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Menu\cafeteria.jpg">
+      <PackagePath>Images\Menu\cafeteria.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Menu\discounts.jpg">
+      <PackagePath>Images\Menu\discounts.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Menu\lunch.jpg">
+      <PackagePath>Images\Menu\lunch.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Menu\messages.jpg">
+      <PackagePath>Images\Menu\messages.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\Images\Menu\sports.jpg">
+      <PackagePath>Images\Menu\sports.jpg</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-11-08T15:29:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Flyouts\AccountSettingsFlyout.xaml">
+      <PackagePath>Flyouts\AccountSettingsFlyout.xaml</PackagePath>
+      <Modified>2013-11-08T15:34:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Places\ImagePopup.xaml">
+      <PackagePath>Pages\Places\ImagePopup.xaml</PackagePath>
+      <Modified>2013-11-08T12:22:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\UnderConstructionPage.xaml">
+      <PackagePath>Pages\UnderConstructionPage.xaml</PackagePath>
+      <Modified>2013-11-08T10:46:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Cafeteria\CafeteriaMenuPage.xaml">
+      <PackagePath>Pages\Cafeteria\CafeteriaMenuPage.xaml</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Discounts\DiscountCategoriesPage.xaml">
+      <PackagePath>Pages\Discounts\DiscountCategoriesPage.xaml</PackagePath>
+      <Modified>2013-11-07T23:56:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Discounts\DiscountInfoPage.xaml">
+      <PackagePath>Pages\Discounts\DiscountInfoPage.xaml</PackagePath>
+      <Modified>2013-11-08T15:43:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Discounts\DiscountsPage.xaml">
+      <PackagePath>Pages\Discounts\DiscountsPage.xaml</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\HomePage.xaml">
+      <PackagePath>Pages\HomePage.xaml</PackagePath>
+      <Modified>2013-11-07T23:33:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Places\PlaceInfoPage.xaml">
+      <PackagePath>Pages\Places\PlaceInfoPage.xaml</PackagePath>
+      <Modified>2013-11-08T12:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\Pages\Places\PlacesListPage.xaml">
+      <PackagePath>Pages\Places\PlacesListPage.xaml</PackagePath>
+      <Modified>2013-11-08T12:25:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\SimplePage.xaml">
+      <PackagePath>SimplePage.xaml</PackagePath>
+      <Modified>2013-11-07T22:44:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\git\telerik-chillin-win8\TelerikChillinWin8\Telerik Chillin\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-08T16:51:56.819</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
